@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+
+        android:layout_height="@dimen/_40sdp"
+        android:layout_margin="@dimen/_7sdp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/course"
+            android:id="@+id/showtweet"
+            android:textAlignment="center"
+
+            android:textSize="@dimen/_25sdp" />
+    </android.support.v7.widget.CardView>
+
+</LinearLayout>

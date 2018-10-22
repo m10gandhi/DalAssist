@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.grp17.dalassist.Assist.comment">
+
+
+    <TextView
+        android:id="@+id/tv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/_14sdp"
+        android:padding="@dimen/_4sdp"
+        android:text="Comments"
+        android:textAlignment="center"
+        android:textSize="32sp" />
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/recycler_comment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/commentLayout"
+        android:layout_below="@+id/tv"
+        android:padding="@dimen/_4sdp" />
+
+    <LinearLayout
+        android:id="@+id/commentLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <EditText
+            android:id="@+id/usercomment"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:hint="Comment"
+             />
+
+        <ImageView
+            android:id="@+id/post"
+            android:layout_width="@dimen/_48sdp"
+            android:onClick="post"
+            android:layout_height="@dimen/_48sdp"
+            android:src="@drawable/send" />
+    </LinearLayout>
+</RelativeLayout>

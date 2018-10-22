@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@drawable/background"
+    android:layout_height="match_parent"
+    tools:context="com.grp17.dalassist.MyAccount.Create_user">
+
+
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:fontFamily="casual"
+        android:layout_marginTop="@dimen/_45sdp"
+        android:text="@string/register_customer"
+        android:textSize="@dimen/_30ssp"
+        tools:ignore="RelativeOverlap" />
+
+    <EditText
+        android:id="@+id/customer_name"
+        android:layout_width="@dimen/_160sdp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/textView3"
+        android:layout_marginTop="@dimen/_35sdp"
+        android:inputType="textPersonName"
+        android:textSize="@dimen/_14ssp" />
+
+    <TextView
+        android:id="@+id/admin_phone2"
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/_37sdp"
+        android:fontFamily="casual"
+        android:layout_alignBottom="@+id/customer_phone"
+        android:text="@string/phone_number"
+        android:textAlignment="center"
+        android:textSize="@dimen/_14ssp" />
+
+    <TextView
+        android:id="@+id/admin_pass2"
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/_37sdp"
+        android:layout_alignBaseline="@+id/customer_pass"
+        android:layout_alignBottom="@+id/customer_pass"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:fontFamily="casual"
+        android:layout_marginLeft="@dimen/_8sdp"
+        android:layout_marginStart="@dimen/_8sdp"
+        android:text="@string/password"
+        android:textAlignment="center"
+        android:textSize="@dimen/_14ssp" />
+
+    <TextView
+        android:id="@+id/operator_name2"
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/_37sdp"
+        android:layout_alignBaseline="@+id/customer_name"
+        android:layout_alignBottom="@+id/customer_name"
+        android:fontFamily="casual"
+        android:layout_alignLeft="@+id/admin_pass2"
+        android:layout_alignStart="@+id/admin_pass2"
+        android:text="@string/user_name"
+        android:textAlignment="center"
+        android:textSize="@dimen/_14ssp"
+        tools:ignore="RelativeOverlap" />
+
+    <EditText
+        android:id="@+id/customer_phone"
+        android:layout_width="@dimen/_160sdp"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/customer_pass"
+        android:layout_alignStart="@+id/customer_pass"
+        android:layout_below="@+id/admin_pass2"
+        android:layout_marginTop="@dimen/_11sdp"
+        android:inputType="phone"
+        android:maxLength="10"
+        android:textSize="@dimen/_14ssp" />
+
+    <EditText
+        android:id="@+id/customer_pass"
+        android:layout_width="@dimen/_160sdp"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/customer_name"
+        android:layout_alignStart="@+id/customer_name"
+        android:layout_below="@+id/operator_name2"
+        android:inputType="textPassword"
+        android:textSize="@dimen/_14ssp" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/_37sdp"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/admin_phone2"
+        android:layout_marginTop="28dp"
+        android:text="@string/select_cluster"
+        android:textAlignment="center"
+        android:textSize="@dimen/_15ssp" />
+
+    <Spinner
+        android:id="@+id/spinner_cluster"
+        android:layout_width="@dimen/_160sdp"
+        android:layout_height="@dimen/_22sdp"
+        android:layout_alignBottom="@+id/textView4"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:prompt="@string/spinner_title"
+        android:textAlignment="center" />
+
+    <Button
+        android:id="@+id/submit_customer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="26dp"
+        android:onClick="registeruser"
+        android:background="@drawable/shape"
+        android:fontFamily="casual"
+        android:text="@string/register_customer" />
+
+</RelativeLayout>

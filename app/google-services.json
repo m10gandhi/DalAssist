@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "674845311679",
+    "firebase_url": "https://dalassist-master.firebaseio.com",
+    "project_id": "dalassist-master",
+    "storage_bucket": "dalassist-master.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674845311679:android:a4f4f6031e72cb52",
+        "android_client_info": {
+          "package_name": "com.grp17.dalassist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "674845311679-m5qk9s41qdq1nutfpl8v46vtaks7puke.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.grp17.dalassist",
+            "certificate_hash": "e5dfa85e832d52bee87e1d13002e88bd0f8cf4cb"
+          }
+        },
+        {
+          "client_id": "674845311679-96ng6dcthcjq3kbjggtraql559uslmfk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDebtJcxon66ScGlZVHEOzV9lfGJcD53Ps"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "674845311679-96ng6dcthcjq3kbjggtraql559uslmfk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

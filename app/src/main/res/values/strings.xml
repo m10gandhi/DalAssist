@@ -1,0 +1,244 @@
+<resources>
+    <string name="app_name">DAL Assist</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="title_catalog">Catalog</string>
+
+
+    <!-- Strings related to login -->
+    <string name="title_activity_getting_started">GettingStarted</string>
+    <string name="title_activity_banking_finance">Banking and Finance</string>
+    <string name="title_activity_transportation">Transportation</string>
+    <string name="title_activity_telecommunication">Telecommunication</string>
+    <string name="title_activity_housing">Housing</string>
+    <string name="title_activity_health_care">Health Care</string>
+    <string name="title_activity_employment">Employment</string>
+
+    <string name="large_text">
+        "BEFORE ARRIVAL."
+    </string>
+    <string name="banking_text">
+       "<b>Banking and Finance</b>"
+    </string>
+    <string name="banking_description">
+"Halifax has many banking options to offer. This section will give insight into all the requirements and costs associated with banking. Before you make any choice ensure that your bank is a registered with Canada Deposit Insurance Corporation (CDIC). It ensures that your deposits up to a maximum of C$100,000 in case the organization goes bankrupt [1].  There is nothing to worry about because Canada has a strong banking system, but it still better to have safety measures in place.\n\n"
+    </string>
+
+    <string name ="look_for">
+        "<b>What to Look for:</b>"
+    </string>
+    <string name="look_for_description">
+"Some of the banks require that you make an appointment before dropping in, so it would be a good idea to book an appointment because it will not only save you a lot of time but will be a hassle-free process. Majority of students of Dalhousie University have their bank accounts with Scotia Bank because it offers best plans for students with minimal or no cost at all as compared to other banks. But you can always go for other banks depending on your preferences. Also, when you spend money using scotia bank scene cards you receive points, which you can later use for buying movie tickets, food, and many other things.\n\n"
+"Some costs you should always ask about and keep in check are\n"
+"•    Withdrawing and receiving money\n"
+"•    Cheques\n"
+"•    Online Banking\n"
+"•    Bank Cards (Debit cards, credit cards, etc.)\n"
+
+       </string>
+    <string name="timings">
+"<b>Timings:</b>
+    </string>
+    <string name="timing_description">
+ "Canadian Banks are open from Monday to Friday from 10 am to 4 pm. Some banks may be open on Saturday and Sunday, for details you can check bank’s website. TD Bank is open seven days a week. Keep a check for the branch you are visiting because every branch has its own working hours.
+For opening a bank account, you will need a passport (International Students), study permit and a local address, some banks may require your University Id as well."
+    </string>
+
+    <string name="employment_text">
+     "Employment"
+    </string>
+    <string name="employment_text_description">
+"As an international student, you need to make sure that you are not restricted from working while studying. For this, you need to check your study permit whether it has any restricted written on it. If there are no restrictions, then you can work off-campus up to 20 hours a week and if you are working on campus then there is no restriction on the number of hours in a week you work. For the on-campus job, you need to regularly check Dal Career website for the job openings.\n\n"
+"For working Off-campus there are websites where you can see for job opportunities. Most popular website in Canada is Indeed.ca. Visit this website to see all the job openings and apply online for them, you can also apply in person. But, its everyone’s personal choice whether they want to work while studying or not.\n\n"
+"Working part-time has its benefits like you meet new people and make connections, you gain experience and most important of all you earn money which will help you in maintaining your monthly budget. If you are working you don’t have to ask your parents every time you need money. You also don’t get bored and keep yourself busy. Make sure that you don’t affect your study and grades because of work. Studying should be your priority."
+    </string>
+    <string name="health__care">
+"Health Care"
+     </string>
+    <string name="healthCare_description">
+"As an international student, you are eligible for a health plan through university.\n" "Your health plan includes\n\n"
+"•    Hospital Stays\n"
+"•    Medical Treatment including:\n"
+"•    Doctors visits\n"
+"•    Diagnostic tests (blood work, x-rays)\n"
+"•    Crutches, Casts, Splints, etc.\n"
+"•    Emergency Medical Coverage\n"
+"•    Emergency Transportation\n"
+"•    Maternity Expenses\n"
+"•    Coverage while Travelling (even in your home country)\n"
+"•    International students who are enrolled in both DSU international student health plan and the DSU health and dental plan have additional coverage in case of accidental injury or death while traveling on a common carrier (bus, plane or train)."
+
+Dalhousie University has its own health center in Studley campus. In the health center, you book appointments with doctors for your illness. And, if there is need of further treatment they refer you to doctor in different hospitals in Halifax.
+Health Insurance and Dental Planhttps://www.studentvip.ca/Default.aspx
+    </string>
+    <string name="hospital">
+    Hospitals
+    </string>
+    <string name="hospital_links">
+     IWK\n
+     Halifax Infirmary\n
+     Queen Elizabeth Hospital
+
+    </string>
+
+    <string name="housing_text">
+"HOUSING"
+    </string>
+    <string name="housing_description">
+"Finding accommodation can be challenging if you\n don’t know where to properly look for them. There are numerous websites that can come handy in finding a proper accommodation. There are many options available for on-campus and off-campus living. Check both the options and consider all the factors like your monthly budget, location, and transportation available from the place you are choosing. Find good roommates. Finding good roommates can sometimes be hard because you never know someone’s feelings and intentions might change and you might land in sort of trouble. Some may like pets some may not.\n\n"
+"Consider the following check-list before making the\n final choice"
+    </string>
+    <string name="rent">
+    "Rent:"
+    </string>
+    <string name="rent_description">
+"•	This is the most important factor in deciding the place of your residence for your study period. Rent also decides what will be your monthly budget.\n"
+"•	How many facilities you're getting in the room. Basic facilities that are included are heat and water (Hot and Cold) and electricity in some cases, depending on where you decide to live and if you are living with roommates then how much each roommate pays and how will you be paying as a tenant. Also read the lease paper carefully if living off-campus.\n\n"
+    </string>
+    <string name="miscellaneous">
+"Miscellaneous charges:\n"
+"•	Mobile bills\n"
+"•	Internet bills\n"
+"•	Electricity bills\n"
+"•	Food\n\n"
+    </string>
+    <string name="chores">
+"Chores:"
+    </string>
+    <string name="chores_description">
+"Try to divide the work evenly among you and decide who is doing what.\n\n"
+    </string>
+    <string name="surrounding">
+"Surroundings:"
+    </string>
+    <string name="surrounding_description">
+"Also, find your surrounding places like\n"
+"•	which is the closest grocery store,\n"
+"•	how easy/difficult is it to get a public transportation,\n"
+"•	the condition of your room.\n"
+"You can join different groups on Facebook made by students of different faculties. Find the group of your faculty. Try to make connections, sometimes the students in the group can tell you about the availabilities of the rooms that may not be listed on the websites. Some websites that can help are Kijiji, Capriet apartments, Killam properties. You can always refer to universities website for the on-campus living."
+
+    </string>
+    <string name="telecommunication_text">
+"Telecommunication"
+    </string>
+    <string name="telecommunication_description">
+"Getting a good mobile plan is also important. Some plans offer you unlimited calling and some with a limited number of talking minutes. Some plans offer you only provincial calling, some offer Canada wide calling and some offer calling in Canada and US. You have different options available when opting for Internet, television, and mobile phone services."
+   </string>
+    <string name="companies">
+"Type of companies:"
+    </string>
+    <string name="links">
+"• Bell Aliant
+"• Rogers\n"• Telus
+"• Fido\n"• Koodo
+"• Chatr\n"There are also small companies available that offer range of communications. That you need research on your own."
+    </string>
+    <string name="plan">
+"Choosing a plan"
+    </string>
+    <string name="plan_description">
+"Many service providers student discounts at the start of the semester. Be sure to check all the plans and choose best suitable for you at the start, because this may save you a lot of money and you may also get great combo packs. You can also get plans at a discounted price if you sign a contract with the company and buy a new mobile phone. The mobile phone is also offered at a low price.\n\n"
+"Keep checking their website if there are any plans which offer better services at low prices. And, yes you can always change your service provider anytime."
+    </string>
+    <string name="transportation_text">
+"Transportation:"
+    </string>
+    <string name="transportation_description">
+In Halifax, you have a variety of transportation options. Halifax has its own international airport (https://halifaxstanfield.ca/). Students have free access to transit bus services if they have a valid University ID card with Halifax transit on it. You can take any bus for free and go wherever you want in the city.
+Going to and coming from the airport you have different options. You can take the bus for $1, you can take a taxi, or you can book shared taxi service from different companies. Cheapest shared taxi service is Driver Dave (https://driverdaves.com/). Other taxi companies have different prices, you need to check their websites or contact them directly for prices. You can visit Halifax Transit Website(https://www.halifax.ca/transportation/halifax-transit) for all the details.
+
+    </string>
+    <string name="ciitizenship">
+        "You can find more information issued by Citizenship and Immigration Canada:
+"https://www.canada.ca/en/services/immigration-citizenship.html"\n
+For the on-campus job, you need to regularly check Dal Career website for the job openings Dal Career : https://mycareer.dal.ca/notLoggedIn.html.\n
+For working Off-campus there are websites where you can see for job opportunities. Most popular website in Canada is Indeed\n https://www.indeed.ca.
+Before applying for work check the rules and regulations for working while studying in Canada\n https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work.html.\n
+For working in Canada you will need a Social Insurance Number https://www.canada.ca/en/employment-social-development/services/sin/apply.html\n
+If you have any questions you can always visit International\n Student Center Located on Le Merchant Street or call\n (+1) 902.494.1566 or visit\n https://www.dal.ca/campus_life/international-centre.html
+
+    </string>
+    <string name="title_activity_my_account_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="Events">Events</string>
+    <string name="select_faculty">Faculty/Staff</string>
+    <string name="Calander">Academic Calander</string>
+    <string name="title_activity_assist_wall">AssistWall</string>
+
+
+    <string name="title_activity_assists">Assists</string>
+
+
+    <string name="title_activity_teacher">teacher</string>
+    <string name="_3rd_option">3rd Option</string>
+    <string name="my_account">My account</string>
+    <string name="assist">Assists</string>
+    <string name="create">Create</string>
+    <string name="login">Login</string>
+    <string name="password">Password (Use Default Credentials)</string>
+    <string name="user_name">User Name</string>
+    <string name="register_customer">Register</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="select_cluster">User Type</string>
+    <string name="spinner_title">Select Type</string>
+    <string name="loading">Loading</string>
+    <string name="add_course">Add Course</string>
+    <string name="add_book">Enter Course Name</string>
+    <string name="addingcousre">Adding Course…</string>
+    <string name="register_for_a_course">Register for a Course</string>
+    <string name="opted_course">Opted Course</string>
+    <string name="logout">Logout</string>
+    <string name="course">course</string>
+    <string name="select_course">Select Course</string>
+    <string name="courses">Courses</string>
+    <string name="new_upload">new upload</string>
+    <string name="upload">Upload</string>
+    <string name="description">Add Description</string>
+    <string name="_0_people_liked_your_post">0 people liked your post</string>
+    <string name="like">Like</string>
+    <string name="add_comments">Comment</string>
+    <string name="hey_there">hey there</string>
+    <string name="profile_pic">profile pic</string>
+    <string name="comment">Comment</string>
+
+    <string name="Student">Student Login</string>
+    <string name="Faculty">Faculty Login</string>
+    <!--<string name="password">Password</string>-->
+    <!--<string name="login">Login</string>-->
+    <string name="Forgot_Password">Forgot Password</string>
+    <string name="Enter_Name">Enter Name (Use Default Credentials)</string>
+    <string name="Add">Add Course</string>
+    <string name="Sing_up">Create a New Account</string>
+
+    <string name="Home">
+    "<b><b>\t\t International Students Assisting Guide\n\n"</b></b>
+        "<b>\t\t\t\t Welcome to Dalhousie University\n\n"</b>
+        <!--"\t This app is specially tailored for international students\n"-->
+        <!--"\t who are taking Faculty of Computer Science.\n\n"-->
+        <!--"\t  \t\t 1) Log in to your Dal Assist app\n\n"-->
+        <!--"\t  \t\t 2) Go through the catalog to find all\n"-->
+                <!--" \t\t\t\t\t\t  the necessary information regarding your\n"-->
+                <!--"\t\t\t\t\t\t  stay in halifax\n\n"-->
+        <!--"\t  \t\t 3) Go to My Account to find all the information\n"-->
+                  <!--"\t\t\t\t\t\t  regarding your courses\n"-->
+    </string>
+
+
+</resources>

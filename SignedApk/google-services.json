@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "23334713458",
+    "project_id": "firebase-dalassist"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23334713458:android:a4f4f6031e72cb52",
+        "android_client_info": {
+          "package_name": "com.grp17.dalassist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "23334713458-nj5u8tu00baf4alilf191l8e0qq3g8ej.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.grp17.dalassist",
+            "certificate_hash": "7791c2a17cb23f7caf7461184baaf50e3f47f2be"
+          }
+        },
+        {
+          "client_id": "23334713458-rvkkpnb0g32495ob416mpbmi4bcsp7vv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9mDkyWfJTjPy5hMRTc8cvNNEJ00zwbMk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

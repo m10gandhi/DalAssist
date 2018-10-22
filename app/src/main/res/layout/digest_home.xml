@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/btn_course"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/select_course"
+        android:textSize="20sp"
+        android:layout_marginTop="100sp" />
+    <Button
+        android:id="@+id/btn_faculty"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/select_faculty"
+        android:textSize="20sp"
+        android:layout_toEndOf="@id/btn_course"
+        android:layout_marginTop="100sp" />
+    <Button
+        android:id="@+id/btn_events"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/Events"
+        android:layout_below="@id/btn_course"
+        android:textSize="20sp"
+        android:layout_marginTop="100sp" />
+    <Button
+        android:id="@+id/btn_calander"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/Calander"
+        android:layout_below="@id/btn_faculty"
+        android:layout_toEndOf="@id/btn_events"
+        android:textSize="20sp"
+        android:layout_marginTop="100sp" />
+
+</RelativeLayout>
